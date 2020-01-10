@@ -1,0 +1,61 @@
+.myInfoWindow {
+    position: absolute;
+    z-index: 100;
+    /* border: 1px solid #c2c2c2; */
+    box-shadow: 0 0 5px #a2a2a2;
+}
+.textPack {
+    width: 100%;
+    height: 57px;
+    float: left;
+    background: rgba(49, 137, 243, 0.81);
+}
+.btnPakage {
+    width: 100%;
+    height: 50%;
+    float: left;
+    background-color: rgba(245, 245, 245, 0.81);
+    text-align: center;
+    line-height: 57px;
+}
+.imgTitle {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+
+.myInfoWindow .ciw-content {
+    position: relative;
+    background-color:#EFECCA;
+    color:#002F2F;
+    overflow: auto;
+    padding:2px 2px 2px 2px;
+}
+
+.myInfoWindow .ciw-close {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+.player-close {
+    background: url('./icon/close-white.png') no-repeat  center;
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+#monitorPlugin{
+    margin-top: 30px;
+}
+
+.myInfoWindow .close:hover, .customInfoWindow .toggleOpen:hover , .customInfoWindow .toggleClose:hover  {
+    background-color: #F7FCFF;
+}

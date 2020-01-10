@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "武汉市公安局",
+        "type": "department",
+        "children": [
+            {
+                "id": "1-1",
+                "name": "机动组911",
+                "type": "group"
+            },
+            {
+                "id": "1-2",
+                "name": "机动组912",
+                "type": "group"
+            },
+            {
+                "id": "1-3",
+                "name": "机动组913",
+                "type": "group"
+            },
+            {
+                "id": "1-4",
+                "name": "机动组914",
+                "type": "group"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "武汉市东湖分局",
+        "type": "department",
+        "children": [
+            {
+                "id": "2-1",
+                "name": "爆破组711",
+                "type": "group"
+            },
+            {
+                "id": "2-2",
+                "name": "爆破组712",
+                "type": "group"
+            },
+            {
+                "id": "2-3",
+                "name": "爆破组713",
+                "type": "group"
+            },
+            {
+                "id": "2-4",
+                "name": "爆破组714",
+                "type": "group"
+            }
+        ]
+    }
+]

@@ -1,0 +1,419 @@
+{
+    "TERMINAL_CAMERA": {
+        "show": true,
+        "data": [
+            {
+                "id": 0,
+                "no": "42010312001321982909",
+                "gbNo": "42010312001321982909",
+                "name": "福利路距发展大道东30米",
+                "address": "福利路距发展大道东30米",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.254465,
+                    "latitude": 30.617238,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 1,
+                "no": "42010312001327332209",
+                "gbNo": "42010312001327332209",
+                "name": "发展大道与后襄河二路东南侧50米",
+                "address": "发展大道与后襄河二路东南侧50米",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.249635,
+                    "latitude": 30.616214,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 2,
+                "no": "42010312001321552788",
+                "gbNo": "42010312001321552788",
+                "name": "青年路市局侧门口",
+                "address": "青年路市局侧门口",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.252051,
+                    "latitude": 30.615872,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 3,
+                "no": "42010313001321086898",
+                "gbNo": "42010313001321086898",
+                "name": "银墩路15栋对侧人行道",
+                "address": "银墩路15栋对侧人行道",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.244376,
+                    "latitude": 30.621938,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 4,
+                "no": "42010314001324650281",
+                "gbNo": "42010314001324650281",
+                "name": "华安里新村五路折返路段枪机1",
+                "address": "华安里新村五路折返路段枪机1",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.23035,
+                    "latitude": 30.61479,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 5,
+                "no": "42010312001324863579",
+                "gbNo": "42010312001324863579",
+                "name": "1911市场",
+                "address": "1911市场",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.256446,
+                    "latitude": 30.616135,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 6,
+                "no": "42010313001326651398",
+                "gbNo": "42010313001326651398",
+                "name": "武汉市第一中学高中部操场",
+                "address": "武汉市第一中学高中部操场",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.252962,
+                    "latitude": 30.625895,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 7,
+                "no": "42010313001324040797",
+                "gbNo": "42010313001324040797",
+                "name": "邮政小区3栋4单元",
+                "address": "邮政小区3栋4单元",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.249985,
+                    "latitude": 30.626771,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 8,
+                "no": "42010313001328638583",
+                "gbNo": "42010313001328638583",
+                "name": "红旗渠路中国建设银行正门口",
+                "address": "红旗渠路中国建设银行正门口",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.256536,
+                    "latitude": 30.628758,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 9,
+                "no": "42010313001326249468",
+                "gbNo": "42010313001326249468",
+                "name": "常青三路武汉龙晟汽修中心对侧纸张市场旁枪机1",
+                "address": "常青三路武汉龙晟汽修中心对侧纸张市场旁枪机1",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.245057,
+                    "latitude": 30.628111,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 10,
+                "no": "42010313001321151212",
+                "gbNo": "42010313001321151212",
+                "name": "阳光花园茅台集团门口上个点对侧",
+                "address": "阳光花园茅台集团门口上个点对侧",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.250353,
+                    "latitude": 30.628078,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 11,
+                "no": "42010313001326249468",
+                "gbNo": "42010313001326249468",
+                "name": "常青三路武汉龙晟汽修中心对侧纸张市场旁枪机1",
+                "address": "常青三路武汉龙晟汽修中心对侧纸张市场旁枪机1",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.245057,
+                    "latitude": 30.628111,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 12,
+                "no": "42010313001329594259",
+                "gbNo": "42010313001329594259",
+                "name": "新湾三路常青三路与红旗渠路之间金鑫侧门武汉广电手孔旁",
+                "address": "新湾三路常青三路与红旗渠路之间金鑫侧门武汉广电手孔旁",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.244426,
+                    "latitude": 30.626873,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 13,
+                "no": "42010313001329735925",
+                "gbNo": "42010313001329735925",
+                "name": "常二社区66B栋门口",
+                "address": "常二社区66B栋门口",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.252089,
+                    "latitude": 30.630184,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 14,
+                "no": "42010313001329594259",
+                "gbNo": "42010313001329594259",
+                "name": "新湾三路常青三路与红旗渠路之间金鑫侧门武汉广电手孔旁",
+                "address": "新湾三路常青三路与红旗渠路之间金鑫侧门武汉广电手孔旁",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.244426114,
+                    "latitude": 30.626873,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 15,
+                "no": "42010314001324942211",
+                "gbNo": "42010314001324942211",
+                "name": "红旗渠路武汉市江汉区人民检察院_1",
+                "address": "红旗渠路武汉市江汉区人民检察院_1",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.253325,
+                    "latitude": 30.627868,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 16,
+                "no": "42010312001329527561",
+                "gbNo": "42010312001329527561",
+                "name": "1911停车场门口",
+                "address": "1911停车场门口",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.256032,
+                    "latitude": 30.618051,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 17,
+                "no": "42010313001321634357",
+                "gbNo": "42010313001321634357",
+                "name": "红旗渠路94号",
+                "address": "红旗渠路94号",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.242902,
+                    "latitude": 30.624552,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 18,
+                "no": "42010312001321706016",
+                "gbNo": "42010312001321706016",
+                "name": "后襄河北路距青年路50米",
+                "address": "后襄河北路距青年路50米",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.250731,
+                    "latitude": 30.614351,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 19,
+                "no": "42010614001324142056",
+                "gbNo": "42010614001324142056",
+                "name": "中山路武昌火车站正门前西出站口花坛中_2",
+                "address": "中山路武昌火车站正门前西出站口花坛中_2",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.31037,
+                    "latitude": 30.532222,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 20,
+                "no": "42010614001320815966",
+                "gbNo": "42010614001320815966",
+                "name": "A1099福安路武昌火车站东广场（球）",
+                "address": "A1099福安路武昌火车站东广场（球）",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.310891,
+                    "latitude": 30.531524,
+                    "lastUpdateTime": 1572591894605
+                }
+            },
+            {
+                "id": 21,
+                "no": "42010609001326158730",
+                "gbNo": "42010609001326158730",
+                "name": "B1251武南一村118号2",
+                "address": "B1251武南一村118号2",
+                "type": "CAMERA",
+                "department": {
+                    "id": 456456,
+                    "name": "武汉市局"
+                },
+                "position": {
+                    "longitude": 114.307128,
+                    "latitude": 30.533502,
+                    "lastUpdateTime": 1572591894605
+                }
+            }]
+    },
+    "TERMINAL_PDT": {
+        "show": true,
+        "data": [
+            {
+                "id": 1,
+                "no": 2545642,
+                "accountId": 51255565,
+                "name": "350M电台1",
+                "type": "TERMINAL_PDT",
+                "department": {
+                      "id": 254564,
+                      "name": "东湖分局"
+                },
+                 "position": {
+                    "longitude": "114.3674182892",
+                    "latitude": "30.5369075923",
+                    "lastUpdateTime": "1571388319711"
+                 },
+                 "status": "ONLINE"
+            },
+            {
+                "id": 2,
+                "no": 4515455,
+                "accountId": 95745445,
+                "name": "350M电台2",
+                "type": "TERMINAL_PDT",
+                "department": {
+                    "id": 456456,
+                    "name": "东湖分局"
+                },
+                "position": {
+                    "longitude": "114.3439006805",
+                    "latitude": "30.5508047136",
+                    "lastUpdateTime": "1571388459711"
+                },
+                "status": "ONLINE"
+            }
+        ]
+    }
+}

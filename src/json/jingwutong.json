@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+	    "position": {
+            "longitude": "114.1233",
+            "latitude": "30.54465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+        "position": {
+            "longitude": "114.12433",
+            "latitude": "30.57465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+        "position": {
+            "longitude": "114.126563",
+            "latitude": "30.554343465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+        "position": {
+            "longitude": "114.14423",
+            "latitude": "30.556556465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+        "position": {
+            "longitude": "114.124423",
+            "latitude": "30.5546655465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 88451756,
+        "name": "张一山",
+        "type": "TERMINAL_PHONE",
+        "accountId": 95745445,
+        "department": "武铁公安处",
+        "position": {
+            "longitude": "114.128773",
+            "latitude": "30.55465445",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    }
+]

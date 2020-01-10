@@ -1,0 +1,150 @@
+{
+    "TERMINAL_UAV": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "CAMERA": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "MONITORBALL": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TERMINAL_PHONE": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TERMINAL_PDT": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TRAFFICPDT": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TERMINAL_BODY_WORN_CAMERA": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "ORG_BRANCH": "分局",
+    "ORG_POLICE_STATION": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "CUTSTATION": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "ORG_POLICE_OFFICE": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "ORG_CHECK_POINT": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "BASE_STATION_PDT": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "BASE_STATION_LTE": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "LTE": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "POLICEMAN": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "POLICECAR": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "PATROLBOAT": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "FLYER": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TRAIN": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "TRAINSTATION": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    },
+    "RAILWAYPOLICE": {
+        "name": "",
+        "no": "",
+        "department": {
+            "name": ""
+        }
+    }
+}

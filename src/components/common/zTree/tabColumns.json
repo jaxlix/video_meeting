@@ -1,0 +1,17 @@
+[
+    { 
+        "title": "民警",
+        "searchType": "person",
+        "type": "person" 
+    },
+    {
+        "title": "电台",
+        "searchType": "equipment",
+        "type": "TERMINAL_PDT"
+    },
+    {
+        "title": "警务通",
+        "searchType": "equipment",
+        "type": "TERMINAL_PHONE"
+    }
+]

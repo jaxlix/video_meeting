@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+	    "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+        "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+        "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+        "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+        "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    },
+    {
+        "id": 1,
+        "no": 4515455,
+        "name": "350M电台",
+        "type": "TERMINAL_BODY_WORN_CAMERA",
+        "accountId": 95745445,
+        "position": {
+            "longitude": "114.123",
+            "latitude": "32.15465",
+            "lastUpdateTime": "1571388319711"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    }
+]

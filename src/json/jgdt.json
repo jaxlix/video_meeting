@@ -1,0 +1,15 @@
+[
+    {
+        "id": 7728,
+        "name": "东新大队",
+        "no": "64280",
+        "systemType": "有线",
+        "department": "东新大队",
+        "position": {
+            "longitude": "114.1233",
+            "latitude": "30.54465"
+        },
+        "status": "ONLINE",
+        "lastUpdateTime": "1571388319711"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 123,
+        "no": 455,
+        "type": "TERMINAL_UAV",
+        "name": "无人机1号",
+        "department": {
+            "id": 456456,
+            "name": "东湖分局"
+        },
+        "position": {
+            "longitude": "114.3749329109",
+            "latitude": "30.5515531059",
+            "lastUpdateTime": 1571388319711
+        },
+        "electricity": "80%",
+        "signalStrength": "-60dbm",
+        "status": "ONLINE"
+    }
+]

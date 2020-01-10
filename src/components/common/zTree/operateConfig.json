@@ -1,0 +1,15 @@
+{
+    "group": ["switchGroup"],
+    "TERMINAL_UAV": ["receiveVideo", "reviewVideo"],
+    "CAMERA": ["previewVideo", "reviewVideo"],
+    "TERMINAL_EQUIPMENT": ["receiveVideo", "cloudVideo"],
+    "TERMINAL_PHONE": ["receiveVideo", "call", "message", "tempGroup", "cloudVideo", "playTrack", "reviewVideo"],
+    "TERMINAL_PDT": ["call", "message", "playTrack"],
+    "TRAFFICPDT": ["call", "message", "playTrack"],
+    "TERMINAL_BODY_WORN_CAMERA": ["receiveVideo", "reviewVideo"],
+    "LTE": ["receiveVideo", "call", "message", "cloudVideo"],
+    "TERMINAL_PERSONNEL": ["call", "message", "receiveVideo", "reviewVideo", "playTrack", "tempGroup"],
+    "TERMINAL_CAR": ["call", "playTrack"],
+    "PATROLBOAT": ["call"],
+    "FLYER": ["call"]
+}

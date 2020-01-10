@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "no": 2545642,
+        "accountId": 51255565,
+        "uniqueNo": "456489456454655",
+        "name": "350M电台1",
+        "type": "TERMINAL_PDT",
+        "department": {
+              "id": 254564,
+              "name": "东湖分局"
+        },
+         "position": {
+            "longitude": "114.3674182892",
+            "latitude": "30.5369075923",
+            "lastUpdateTime": "1571388319711"
+         },
+         "status": "ONLINE"
+    },
+    {
+        "id": 2,
+        "no": 4515455,
+        "accountId": 95745445,
+        "uniqueNo": "4564894564546355",
+        "name": "350M电台2",
+        "type": "TERMINAL_PDT",
+        "department": {
+            "id": 456456,
+            "name": "东湖分局"
+        },
+	    "position": {
+            "longitude": "114.3439006805",
+            "latitude": "30.5508047136",
+            "lastUpdateTime": "1571388459711"
+        },
+        "status": "ONLINE"
+    }
+]

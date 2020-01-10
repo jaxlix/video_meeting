@@ -1,0 +1,19 @@
+[
+    {
+        "id": 123,
+        "no": 22869,
+        "type": "TERMINAL_FLYER",
+        "accountId": 22869,
+        "name": "飞手1号",
+        "department": {
+            "id": 456456,
+            "name": "东湖分局"
+        },
+        "position": {
+            "longitude": "114.3724393845",
+            "latitude": "30.5524031246",
+            "lastUpdateTime": 1571388319711
+        },
+        "status": "ONLINE"
+    }
+]
