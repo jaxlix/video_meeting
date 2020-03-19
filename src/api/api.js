@@ -1,6 +1,7 @@
 let isGaw = false   // 是否公安网
-const IP = isGaw ? 'http://59.32.1.170:9011' : 'http://192.168.1.222:9011'   // 一体化服务
-const IP2 = isGaw ? 'http://59.32.1.174:6061' : 'http://192.168.1.223:6061'    // 文件服务
+const IP = isGaw ? 'http://59.32.1.170:9011' : 'http://106.12.14.136:18085'   // 一体化服务
+// const IP2 = isGaw ? 'http://59.32.1.174:6061' : 'http://106.12.14.136:16061'    // 文件服务
+const IP2 = isGaw ? 'http://59.32.1.174:6061' : 'https://106.12.14.136:18086'    // 文件服务
 
 export const api = {
     isGaw: isGaw,
@@ -10,11 +11,13 @@ export const api = {
         getTerminalTraceByNo: IP + "/phone/getTerminalTraceByNo",   // 查询历史轨迹,参数: gpsId , beginTime, endTime, memberType  警员： memberType=PERSIONNEL
 
         // 文件服务部门树接口
+        getDeptData: IP2 + "/file/getDeptDataStr",    // 获取部门--人员/设备。type=PC_CONTACTS_DEVICE_DATA&id=2&terminalMemberTypes=TERMINAL_PHONE,TERMINAL_PC
+        searchDeptData: IP2 + "/file/findMembers", // 搜索部门--人员/设备。page=0&pageSize=10&memberStr=mate&isAll=true&id=1&terminalMemberTypes=TERMINAL_PHONE,TERMINAL_PC
+        
         findGroups: IP2 + "/file/findGroups",   // 查询部门--组
-        findMembers: IP2 + "/file/findMembers", // 查询部门--人员
         findByDeptAndKey: IP2 + "/file/terminal/findByDeptAndKey",  // 查询部门--设备
-        getDeptData: IP2 + "/file/getDeptData",    // 获取部门--组，部门--人员
         getDept: IP2 + "/file/getDept",    // 获取部门--设备
+        getMemberByNo: IP2 + "/file/getMemberByNo" // 获取账号信息
     },
     mapUrl: {
         css: isGaw ? 'http://59.32.1.166:4869/arcgis_pc/arcgis_js_api/library/3.19/3.19/esri/css/esri.css' : // 市局pc
@@ -25,5 +28,9 @@ export const api = {
             'http://map.geoq.cn/arcgis/rest/services/ChinaOnlineStreetWarm/MapServer'                        // 公司测试
     },
     mapType: "gaode",   // 底图加载类型：gaode高德底图，pgis公安底图
-    wsUrl: 'ws://127.0.0.1:8099/websocket'
+    wsUrl: 'ws://127.0.0.1:8099/websocket',
+    meetingWsUrl: 'wss://106.12.14.136:18086/videoMeetingService/groupcall',
+    meetingServiceUrl: 'https://106.12.14.136:18086/videoMeetingService/',
+    // meetingWsUrl: 'ws://10.0.0.3:8080/videoMeetingService/groupcall',
+    // meetingServiceUrl: 'http://10.0.0.3:8080/videoMeetingService/'
 }

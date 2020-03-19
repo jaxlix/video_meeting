@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import index from '@/views/index.vue'
 import heatMap from '@/components/common/heatMap/heatMap.vue'
 import trajectory from '@/components/common/trajectory/trajectory.vue'
+import app from '@/views/app/appIndex.vue'
 
 Vue.use(Router)
 
@@ -24,6 +25,11 @@ export default new Router({
       path: '/trajectory/:gpsId/:memberType',
       name: 'trajectory',
       component: trajectory
+    },
+    {
+      path: '/app',
+      name: 'app',
+      component: app
     }
   ]
 })

@@ -26,6 +26,9 @@ Vue.prototype.$arcgis = arcgis
 import rhtxApi from './js/rhtx.js'
 Vue.prototype.$rhtxApi = rhtxApi
 
+import meetingApi from './js/meeting.js'
+Vue.prototype.$meetingApi = meetingApi
+
 // 引入aiMapServe,创建websocket连接，接收ai人脸识别警情
 // import aiMap from './aiMap'
 // Vue.prototype.$aiMap = aiMap
