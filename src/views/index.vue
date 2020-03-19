@@ -366,10 +366,33 @@
 			},
 			userAddedState() {
                 return this.$store.state.userAdded;
-            }
+			},
+			userInvitedResult() {
+				return this.$store.state.userInvitedResult;
+			}
 
 		},
 		watch: {
+			userInvitedResult(result) {
+				let mag = _.find(this.magList, mag => mag.uniqueNo == result.uniqueNo);
+				if(mag && this.room.presidentId == this.currentUser.uniqueNo) {
+					var msg = mag.name;
+					var resultCode = result.resultCode;
+					if(resultCode == 0) {
+						msg += '拒绝了您的会商请求';
+					}else if(resultCode == 1) {
+						msg += '忙';
+					}else if(resultCode == 2) {
+						msg += '无响应';
+					} else {
+						msg += '忙';
+					}
+					this.$message({
+						message: msg,
+						type: "info"
+					});
+				}
+			},
 			userAddedState() {
                 this.$meetingApi.getRoomUsers(this.roomId, (result) =>{
                     result.data.forEach(item => {
@@ -377,7 +400,7 @@
                             return mag.uniqueNo == item.uniqueNo;
                         });
                         if(!finded) {
-							initUserSoundEnable(item);
+							this.initUserSoundEnable(item);
                             this.magList.push(item);
                         }
                     });
